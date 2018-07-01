@@ -1,0 +1,15 @@
+body {
+	background-color: #AAAAAA;
+}
+
+h1 {
+	color: white;
+}
+
+#canvasID {
+	position: absolute;
+	width: 640px;
+	height: 480px;
+	image-rendering: crisp;
+	image-rendering: pixelated;
+}
